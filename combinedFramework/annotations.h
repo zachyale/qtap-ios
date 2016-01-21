@@ -2,8 +2,8 @@
 //  annotations.h
 //  mapKitR1.0
 //
-//  Created by Rony Besprozvanny on 2015-06-27.
-//  Copyright (c) 2015 Rony. All rights reserved.
+//  Created by Rony Besprozvanny and Zachary Yale on 2015-06-27.
+//  Copyright (c) 2015 QTap Project. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

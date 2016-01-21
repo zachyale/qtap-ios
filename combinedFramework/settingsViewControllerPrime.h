@@ -2,8 +2,8 @@
 //  settingsViewControllerPrime.h
 //  combinedFramework
 //
-//  Created by Zachary Yale on 2015-07-23.
-//  Copyright (c) 2015 ENGSOC Group 377A. All rights reserved.
+//  Created by Zachary Yale and Rony Besprozvanny on 2015-07-23.
+//  Copyright (c) 2016 QTap Project. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
