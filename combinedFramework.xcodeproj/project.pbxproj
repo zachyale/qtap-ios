@@ -313,8 +313,6 @@
 		07B6718D1ABA852600A3E13C = {
 			isa = PBXGroup;
 			children = (
-				ABF31A6A1B8809A2009B592D /* GoEngPageViewController.h */,
-				ABF31A6B1B8809A2009B592D /* GoEngPageViewController.m */,
 				07B671981ABA852600A3E13C /* combinedFramework */,
 				07B671B51ABA852600A3E13C /* combinedFrameworkTests */,
 				E31B8BCC93FA77FE1B21AA7E /* Frameworks */,
@@ -341,6 +339,8 @@
 				AB33E9E51ABF93790020109F /* MasterTabViewController.m */,
 				AB002B371B82339E00647B7D /* PrimaryViewController.h */,
 				AB002B381B82339E00647B7D /* PrimaryViewController.m */,
+				ABF31A6A1B8809A2009B592D /* GoEngPageViewController.h */,
+				ABF31A6B1B8809A2009B592D /* GoEngPageViewController.m */,
 				ABF31A6D1B8809E2009B592D /* GoNonEngPageViewController.h */,
 				ABF31A6E1B8809E2009B592D /* GoNonEngPageViewController.m */,
 				AB002B391B82339E00647B7D /* ViewController.h */,
