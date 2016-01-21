@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MondayClass</key>
+	<array>
+		<string></string>
+		<string>APSC 131</string>
+		<string>APSC 151</string>
+		<string>APSC 151</string>
+		<string></string>
+		<string></string>
+		<string>APSC 111</string>
+		<string>APSC 131</string>
+		<string>APSC 151</string>
+		<string></string>
+	</array>
+	<key>MondayRoom</key>
+	<array>
+		<string></string>
+		<string>Chernoff, Rm. 213</string>
+		<string>Miller, Rm. 102/106</string>
+		<string>Miller, Rm. 102/106</string>
+		<string></string>
+		<string></string>
+		<string>Chernoff, Aud.</string>
+		<string>Chernoff, Aud.</string>
+		<string>Ellis Hall, Aud.</string>
+		<string></string>
+	</array>
+	<key>MondayType</key>
+	<array>
+		<string></string>
+		<string>Tutorial</string>
+		<string>Lab</string>
+		<string>Lab</string>
+		<string></string>
+		<string></string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string></string>
+	</array>
+	<key>TuesdayClass</key>
+	<array>
+		<string>APSC 100</string>
+		<string>APSC 100</string>
+		<string>APSC 100</string>
+		<string>APSC 171</string>
+		<string></string>
+		<string></string>
+		<string>APSC 171</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>TuesdayRoom</key>
+	<array>
+		<string>Stirling, Rm. 406/407</string>
+		<string>Stirling, Rm. 406/407</string>
+		<string>Striling, Rm. 406/407</string>
+		<string>Jeffery, Rm. 128</string>
+		<string></string>
+		<string></string>
+		<string>Ellis, Aud</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>TuesdayType</key>
+	<array>
+		<string>Lab</string>
+		<string>Lab</string>
+		<string>Lab</string>
+		<string>Tutorial</string>
+		<string></string>
+		<string></string>
+		<string>Lecture</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>WedClass</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>APSC 161</string>
+		<string></string>
+		<string>APSC 131</string>
+		<string>APSC 151</string>
+		<string>APSC 171</string>
+		<string></string>
+	</array>
+	<key>WedRoom</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Ellis, Aud</string>
+		<string></string>
+		<string>Chernoff, Aud</string>
+		<string>Ellis, Aud</string>
+		<string>Ellis Hall, Aud.</string>
+		<string></string>
+	</array>
+	<key>WedType</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Lecture</string>
+		<string></string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string></string>
+	</array>
+	<key>ThursClass</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>APSC 111</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>APSC 131</string>
+		<string></string>
+	</array>
+	<key>ThursRoom</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Chernoff, Aud</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Chernoff, Aud</string>
+		<string></string>
+	</array>
+	<key>ThursType</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Lecture</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Lecture</string>
+		<string></string>
+	</array>
+	<key>FridayClass</key>
+	<array>
+		<string>APSC 161</string>
+		<string>APSC 161</string>
+		<string>APSC 161</string>
+		<string></string>
+		<string>APSC 111</string>
+		<string>APSC 151</string>
+		<string>APSC 161</string>
+		<string>APSC 171</string>
+		<string>APSC 111</string>
+		<string></string>
+	</array>
+	<key>FridayRoom</key>
+	<array>
+		<string>BMH, Rm. 212/214</string>
+		<string>BMH, Rm. 212/214</string>
+		<string>BMH, Rm. 212/214</string>
+		<string></string>
+		<string>Stirling, Rm. 412B/ Ellis 218</string>
+		<string>Chernoff, Aud</string>
+		<string>Ellis, Aud</string>
+		<string>Ellis, Aud</string>
+		<string>Chernoff, Aud.</string>
+		<string></string>
+	</array>
+	<key>FridayType</key>
+	<array>
+		<string>Lab</string>
+		<string>Lab</string>
+		<string>Lab</string>
+		<string></string>
+		<string>Tutorial</string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string>Lecture</string>
+		<string></string>
+	</array>
+</dict>
+</plist>

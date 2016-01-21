@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<array>
+		<string>00001</string>
+		<string>00000</string>
+		<string>00001</string>
+		<string>00002</string>
+		<string>00001</string>
+		<string>00002</string>
+		<string>00003</string>
+		<string>00004</string>
+		<string>00005</string>
+		<string>00006</string>
+		<string>00007</string>
+		<string>00008</string>
+		<string>00009</string>
+		<string>00010</string>
+		<string>00011</string>
+		<string>00012</string>
+		<string>00013</string>
+		<string>00014</string>
+		<string>00015</string>
+		<string>00016</string>
+		<string>00017</string>
+		<string>00018</string>
+		<string>00019</string>
+		<string>00120</string>
+		<string>00121</string>
+		<string>01222</string>
+		<string>01323</string>
+		<string>10001</string>
+		<string>10002</string>
+		<string>10003</string>
+		<string>10004</string>
+		<string>10005</string>
+		<string>10006</string>
+		<string>10007</string>
+		<string>10008</string>
+		<string>10009</string>
+		<string>10010</string>
+		<string>10011</string>
+		<string>10012</string>
+		<string>10013</string>
+		<string>10014</string>
+		<string>10015</string>
+		<string>10016</string>
+		<string>10017</string>
+		<string>10018</string>
+		<string>10019</string>
+		<string>10020</string>
+		<string>10021</string>
+		<string>10022</string>
+		<string>10023</string>
+		<string>10024</string>
+		<string>10025</string>
+		<string>10026</string>
+		<string>10027</string>
+		<string>10028</string>
+		<string>10029</string>
+		<string>10030</string>
+		<string>10031</string>
+		<string>10032</string>
+		<string>10033</string>
+		<string>10034</string>
+		<string>10035</string>
+		<string>10036</string>
+		<string>10037</string>
+		<string>10038</string>
+		<string>10039</string>
+		<string>10040</string>
+		<string>10041</string>
+		<string>10042</string>
+		<string>10043</string>
+		<string>10044</string>
+		<string>10045</string>
+		<string>10046</string>
+		<string>10047</string>
+		<string>10048</string>
+		<string>10049</string>
+		<string>10050</string>
+		<string>10051</string>
+		<string>10052</string>
+		<string>10053</string>
+		<string>10054</string>
+		<string>10055</string>
+		<string>10056</string>
+		<string>10057</string>
+		<string>10058</string>
+		<string>10059</string>
+		<string>10060</string>
+		<string>10061</string>
+		<string>10062</string>
+		<string>10063</string>
+		<string>10064</string>
+		<string>10065</string>
+		<string>10066</string>
+	</array>
+	<key>Building Name</key>
+	<array>
+		<string>Beamish Munro Hall</string>
+		<string>David C. Smith House</string>
+		<string>Mac Corry Hall</string>
+		<string>ARC</string>
+		<string>ARC</string>
+		<string>Bio Science Complex</string>
+		<string>Bio Science Atrium</string>
+		<string>JDUC</string>
+		<string>ARC</string>
+		<string>ARC</string>
+		<string>Mac Corry Hall</string>
+		<string>ARC</string>
+		<string>Victoria Hall</string>
+		<string>Goodes Hall</string>
+		<string>Mac Corry Hall</string>
+		<string>Mac Corry Hall</string>
+		<string>Stauffer Library</string>
+		<string>JDUC</string>
+		<string>JDUC</string>
+		<string>Gord&apos;s Fresh Café</string>
+		<string>Botterell Hall</string>
+		<string>New Medical Building</string>
+		<string>Goodes Hall</string>
+		<string>Leonard Hall</string>
+		<string>Ban Righ Hall</string>
+		<string>Jean Royce Hall</string>
+		<string>Jean Royce Hall</string>
+		<string>ASUS Core</string>
+		<string>Abramsky Hall</string>
+		<string>Adelaide Hall</string>
+		<string>Agnes Etherington Art Centre</string>
+		<string>Ann Baillie Building</string>
+		<string>Ban Righ Hall</string>
+		<string>Beamish-Munro Hall</string>
+		<string>Biosciences Complex</string>
+		<string>Botterell Hall</string>
+		<string>Brant House Residence</string>
+		<string>Bruce Wing</string>
+		<string>Cancer Research Institute</string>
+		<string>Carruthers Hall</string>
+		<string>Cataraqui Building</string>
+		<string>Chernoff Auditorium</string>
+		<string>Chernoff Hall</string>
+		<string>Chown Hall</string>
+		<string>Clark Hall</string>
+		<string>Coastal Engineering Lab</string>
+		<string>Craine Building</string>
+		<string>David C. Smith House Residence</string>
+		<string>Donald Gordon Centre</string>
+		<string>Douglas Library</string>
+		<string>Duncan McArthur Hall</string>
+		<string>Dunning Hall</string>
+		<string>Dupuis Hall</string>
+		<string>Earl Hall</string>
+		<string>Ellis Hall</string>
+		<string>Etherington Hall</string>
+		<string>GIDRU Wing</string>
+		<string>Goodes Hall</string>
+		<string>Goodwin Hall
+            </string>
+		<string>Gordon Hall</string>
+		<string>Gordon-Brockington Hall</string>
+		<string>Grant Hall</string>
+		<string>Harkness International Hall</string>
+		<string>Harrison-LeCaine Hall</string>
+		<string>Humphrey Hall</string>
+		<string>Jackson Hall</string>
+		<string>Jean Royce Hall</string>
+		<string>Jeffery Hall</string>
+		<string>John Deutsch University Centre</string>
+		<string>Joseph S. Stauffer Library</string>
+		<string>Kingston Hall</string>
+		<string>LaSalle Building</string>
+		<string>Leggett Hall</string>
+		<string>Leonard Hall</string>
+		<string>Louise D. Acton Building</string>
+		<string>Mackintosh-Corry Hall</string>
+		<string>McLaughlin Hall</string>
+		<string>McNeill House</string>
+		<string>Miller Hall</string>
+		<string>Morris Hall</string>
+		<string>Nicol Hall</string>
+		<string>Old Medical Building</string>
+		<string>Ontario Hall</string>
+		<string>Rideau Building</string>
+		<string>Robert Sutherland Hall</string>
+		<string>Sir John A. Macdonald Hall</string>
+		<string>Stirling Hall</string>
+		<string>Victoria Hall</string>
+		<string>Waldron Tower</string>
+		<string>Walter Light Hall</string>
+		<string>Watson Hall</string>
+		<string>Watts Hall</string>
+		<string>ARC</string>
+	</array>
+	<key>Address</key>
+	<array>
+		<string>45 Union Street</string>
+		<string>222 Stuart Street</string>
+		<string>68 University Avenue</string>
+		<string>284 Earl St</string>
+		<string>284 Earl St</string>
+		<string>116 Barrie Street</string>
+		<string>116 Barrie Street</string>
+		<string>87 Union Street</string>
+		<string>284 Earl St</string>
+		<string>284 Earl St</string>
+		<string>68 University Avenue</string>
+		<string>284 Earl St</string>
+		<string>75 Bader Lane</string>
+		<string>143 Union Street</string>
+		<string>68 University Avenue</string>
+		<string>68 University Avenue</string>
+		<string>101 Union Street</string>
+		<string>87 Union Street</string>
+		<string>87 Union Street</string>
+		<string>21 Collingwood Street</string>
+		<string>18 Stuart Street</string>
+		<string>New Medical Building</string>
+		<string>143 Union Street</string>
+		<string>150 Queen&apos;s Crescent</string>
+		<string>10 Bader Lane</string>
+		<string>535-537 Union Street</string>
+		<string>535-537 Union Street</string>
+		<string>183 University Avenue</string>
+		<string>21 Arch Street</string>
+		<string>137 Stuart Street</string>
+		<string>36 University Avenue</string>
+		<string>32 George Street</string>
+		<string>10 Bader Lane</string>
+		<string>45 Union Street</string>
+		<string>116 Barrie Street</string>
+		<string>18 Stuart Street</string>
+		<string>28 Lower Albert Street</string>
+		<string>13 Fifth Field</string>
+		<string>10 Stuart Street</string>
+		<string>62 Fifth Field</string>
+		<string>92 Barrie Street</string>
+		<string>90 Bader Lane</string>
+		<string>90 Bader Lane</string>
+		<string>175 Stuart Street</string>
+		<string>30 Fifth Field</string>
+		<string>950 Johnson Street</string>
+		<string>56 Arch Street</string>
+		<string>222 Stuart Street</string>
+		<string>421 Union Street</string>
+		<string>93 University Avenue</string>
+		<string>511 Union Street</string>
+		<string>94 University Avenue</string>
+		<string>19 Division Street</string>
+		<string>106 Barrie Street</string>
+		<string>58 University Avenue</string>
+		<string>94 Stuart Street</string>
+		<string>76 Stuart St.</string>
+		<string>143 Union Street</string>
+		<string>25 Union Street</string>
+		<string>74 Union Street</string>
+		<string>21 Collingwood Street</string>
+		<string>43 University Avenue</string>
+		<string>329 Earl Street</string>
+		<string>39 Bader Lane</string>
+		<string>62 Arch Street</string>
+		<string>35 Fifth Field</string>
+		<string>535-537 Union Street</string>
+		<string>48 University Avenue</string>
+		<string>87 Union Street</string>
+		<string>101 Union Street</string>
+		<string>103 Stuart Street</string>
+		<string>146 Stuart Street</string>
+		<string>194 Stuart Street</string>
+		<string>150 Queen&apos;s Crescent</string>
+		<string>31 George Street</string>
+		<string>68 University Avenue</string>
+		<string>130 Stuart Street</string>
+		<string>40 Lower Albert Street</string>
+		<string>36 Union Street</string>
+		<string>12 Lower Albert Street</string>
+		<string>60 Union Street</string>
+		<string>50B Arch Street</string>
+		<string>67 University Avenue</string>
+		<string>207 Stuart Street</string>
+		<string>138 Union Street</string>
+		<string>128 Union Street</string>
+		<string>64 Bader Lane</string>
+		<string>75 Bader Lane</string>
+		<string>17 King Street West</string>
+		<string>19 Union Street</string>
+		<string>49 Bader Lane</string>
+		<string>23 Lower Albert Street</string>
+		<string>284 Earl St</string>
+	</array>
+	<key>Service Name</key>
+	<array>
+		<string>Tea Room</string>
+		<string>Location 21</string>
+		<string>Pizza Pizza</string>
+		<string>Pizza Pizza</string>
+		<string>Tim Hortons</string>
+		<string>Tim Hortons</string>
+		<string>Tim Hortons</string>
+		<string>Tim Hortons</string>
+		<string>Terriyaki</string>
+		<string>Pita Pit</string>
+		<string>Pita Pit</string>
+		<string>Booster Juice</string>
+		<string>The Lazy Scholar</string>
+		<string>Starbucks</string>
+		<string>MC Square</string>
+		<string>The Canadian Grilling Company</string>
+		<string>The Library Café</string>
+		<string>Khao</string>
+		<string>Quiznos</string>
+		<string>Gord&apos;s Fresh Café</string>
+		<string>Market Street</string>
+		<string>Market Street</string>
+		<string>Goodes Café</string>
+		<string>Leonard Dining Hall</string>
+		<string>Ban Righ Dining Hall</string>
+		<string>Jean Royce Dining Hall</string>
+		<string>Barista Bar</string>
+	</array>
+	<key>Coordinate</key>
+	<array>
+		<string>44.228091, -76.492735</string>
+		<string>44.223644, -76.498890</string>
+		<string>44.226517, -76.496985</string>
+		<string>44.229206, -76.494682</string>
+		<string>44.229054, -76.494942</string>
+		<string>44.226508, -76.491446</string>
+		<string>44.226662, -76.491215</string>
+		<string>44.228426, -76.494677</string>
+		<string>44.229087, -76.494850</string>
+		<string>44.229204, -76.494472</string>
+		<string>44.226740, -76.496882</string>
+		<string>44.229202, -76.494275</string>
+		<string>44.225337, -76.498719</string>
+		<string>44.228030, -76.498072</string>
+		<string>44.226249, -76.497022</string>
+		<string>44.226746, -76.497120</string>
+		<string>44.228510, -76.496423</string>
+		<string>44.228625, -76.495181</string>
+		<string>44.228124, -76.494964</string>
+		<string>44.223059, -76.500723</string>
+		<string>44.224508, -76.491657</string>
+		<string>44.225185, -76.491657</string>
+		<string>44.228264, -76.497521</string>
+		<string>44.224260, -76.500705</string>
+		<string>44.224648, -76.496361</string>
+		<string>44.223115, -76.514654</string>
+		<string>44.223801, -76.515777</string>
+		<string>44.229304, -76.495337</string>
+		<string>44.225546, -76.491459</string>
+		<string>44.224249, -76.496070</string>
+		<string>44.225313, -76.496240</string>
+		<string>44.223745, -76.491552</string>
+		<string>44.225333, -76.496812</string>
+		<string>44.227954, -76.492742</string>
+		<string>44.226293, -76.491156</string>
+		<string>44.224505, -76.491625</string>
+		<string>44.223683, -76.499427</string>
+		<string>44.227367, -76.493445</string>
+		<string>44.224380, -76.491480</string>
+		<string>44.226388, -76.493708</string>
+		<string>44.225553, -76.490931</string>
+		<string>44.224503, -76.498319</string>
+		<string>44.224572, -76.498812</string>
+		<string>44.224192, -76.497001</string>
+		<string>44.226713, -76.493721</string>
+		<string>44.230351, -76.517057</string>
+		<string>44.226374, -76.491974</string>
+		<string>44.223613, -76.498837</string>
+		<string>44.225464, -76.509864</string>
+		<string>44.227347, -76.495125</string>
+		<string>44.223995, -76.514151</string>
+		<string>44.227434, -76.496034</string>
+		<string>44.228576, -76.492782</string>
+		<string>44.226069, -76.490619</string>
+		<string>44.226356, -76.496268</string>
+		<string>44.224249, -76.493914</string>
+		<string>44.224292, -76.492773</string>
+		<string>44.228197, -76.497331</string>
+		<string>44.227914, -76.492357</string>
+		<string>44.227857, -76.494770</string>
+		<string>44.223089, -76.500788</string>
+		<string>44.225912, -76.495074</string>
+		<string>44.229984, -76.497653</string>
+		<string>44.225041, -76.497338</string>
+		<string>44.226909, -76.492108</string>
+		<string>44.226592, -76.493016</string>
+		<string>44.223103, -76.514611</string>
+		<string>44.225892, -76.496093</string>
+		<string>44.228105, -76.494932</string>
+		<string>44.228506, -76.496243</string>
+		<string>44.225701, -76.494996</string>
+		<string>44.223724, -76.495972</string>
+		<string>44.223658, -76.497667</string>
+		<string>44.224686, -76.501089</string>
+		<string>44.223862, -76.491494</string>
+		<string>44.226736, -76.496861</string>
+		<string>44.223704, -76.495313</string>
+		<string>44.223668, -76.499427</string>
+		<string>44.227776, -76.493241</string>
+		<string>44.223660, -76.499406</string>
+		<string>44.227808, -76.493949</string>
+		<string>44.226321, -76.492938</string>
+		<string>44.226533, -76.495071</string>
+		<string>44.224095, -76.498086</string>
+		<string>44.227707, -76.497503</string>
+		<string>44.227777, -76.497118</string>
+		<string>44.224637, -76.497693</string>
+		<string>44.225355, -76.498506</string>
+		<string>44.223030, -76.491091</string>
+		<string>44.228054, -76.491729</string>
+		<string>44.225409, -76.497677</string>
+		<string>44.223730, -76.499416</string>
+		<string>44.229188, -76.494232</string>
+	</array>
+	<key>Monday Hours</key>
+	<array>
+		<string>8:00 AM - 7:30 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>11:00 AM - 6:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 11:00 PM</string>
+		<string>7:00 AM - 6:00 PM</string>
+		<string>8:30 AM - 3:30 PM</string>
+		<string>7:30 AM - 3:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>10:00 AM - 8:00 PM</string>
+		<string>8:30 AM - 6:00 PM</string>
+		<string>8:30 AM - 8:00 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>7:30 AM - 10:00 PM</string>
+		<string>7:30 AM - 6:00 PM</string>
+		<string>11:00 AM - 8:00 PM</string>
+		<string>8:00 AM - 7:00 PM</string>
+		<string>11:00 AM - 9:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>7:30 AM - 11:00 PM</string>
+		<string>7:00 AM - 3:00 PM</string>
+		<string>8:30 AM - 1:30 PM</string>
+		<string>8:15 AM - 1:15 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,11:00 AM - 2:00 PM,4:30 PM - 8:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 10:00 AM,11:00 AM - 3:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 9:30 AM,11:00 AM - 2:00 PM,4:30 PM - 7:30 PM</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:00 AM,2:00 PM - 4:30 PM,7:30 PM - 12:00 AM</string>
+	</array>
+	<key>Tuesday Hours</key>
+	<array>
+		<string>8:00 AM - 7:30 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>11:00 AM - 6:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 11:00 PM</string>
+		<string>7:00 AM - 6:00 PM</string>
+		<string>8:30 AM - 3:30 PM</string>
+		<string>7:30 AM - 3:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>10:00 AM - 8:00 PM</string>
+		<string>8:30 AM - 6:00 PM</string>
+		<string>8:30 AM - 8:00 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>7:30 AM - 10:00 PM</string>
+		<string>7:30 AM - 6:00 PM</string>
+		<string>11:00 AM - 8:00 PM</string>
+		<string>8:00 AM - 7:00 PM</string>
+		<string>11:00 AM - 9:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>7:30 AM - 11:00 PM</string>
+		<string>7:00 AM - 3:00 PM</string>
+		<string>8:30 AM - 1:30 PM</string>
+		<string>8:15 AM - 1:15 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,11:00 AM - 2:00 PM,4:30 PM - 8:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 10:00 AM,11:00 AM - 3:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 9:30 AM,11:00 AM - 2:00 PM,4:30 PM - 7:30 PM</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:00 AM,2:00 PM - 4:30 PM,7:30 PM - 12:00 AM</string>
+	</array>
+	<key>Wednesday Hours</key>
+	<array>
+		<string>8:00 AM - 7:30 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>11:00 AM - 6:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 11:00 PM</string>
+		<string>7:00 AM - 6:00 PM</string>
+		<string>8:30 AM - 3:30 PM</string>
+		<string>7:30 AM - 3:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>10:00 AM - 8:00 PM</string>
+		<string>8:30 AM - 6:00 PM</string>
+		<string>8:30 AM - 8:00 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>7:30 AM - 10:00 PM</string>
+		<string>7:30 AM - 6:00 PM</string>
+		<string>11:00 AM - 8:00 PM</string>
+		<string>8:00 AM - 7:00 PM</string>
+		<string>11:00 AM - 9:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>7:30 AM - 11:00 PM</string>
+		<string>7:00 AM - 3:00 PM</string>
+		<string>8:30 AM - 1:30 PM</string>
+		<string>8:15 AM - 1:15 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,11:00 AM - 2:00 PM,4:30 PM - 8:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 10:00 AM,11:00 AM - 3:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 9:30 AM,11:00 AM - 2:00 PM,4:30 PM - 7:30 PM</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:00 AM,2:00 PM - 4:30 PM,7:30 PM - 12:00 AM</string>
+	</array>
+	<key>Thursday Hours</key>
+	<array>
+		<string>8:00 AM - 7:30 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>11:00 AM - 6:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 11:00 PM</string>
+		<string>7:00 AM - 6:00 PM</string>
+		<string>8:30 AM - 3:30 PM</string>
+		<string>7:30 AM - 3:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>10:00 AM - 8:00 PM</string>
+		<string>8:30 AM - 6:00 PM</string>
+		<string>8:30 AM - 8:00 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>7:30 AM - 10:00 PM</string>
+		<string>7:30 AM - 6:00 PM</string>
+		<string>11:00 AM - 8:00 PM</string>
+		<string>8:00 AM - 7:00 PM</string>
+		<string>11:00 AM - 9:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>7:30 AM - 11:00 PM</string>
+		<string>7:00 AM - 3:00 PM</string>
+		<string>8:30 AM - 1:30 PM</string>
+		<string>8:15 AM - 1:15 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,11:00 AM - 2:00 PM,4:30 PM - 8:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 10:00 AM,11:00 AM - 3:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 9:30 AM,11:00 AM - 2:00 PM,4:30 PM - 7:30 PM</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:00 AM,2:00 PM - 4:30 PM,7:30 PM - 12:00 AM</string>
+	</array>
+	<key>Friday Hours</key>
+	<array>
+		<string>8:00 AM - 5:30 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>11:00 AM - 5:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 11:00 PM</string>
+		<string>7:00 AM - 3:30 PM</string>
+		<string>8:30 AM - 1:30 PM</string>
+		<string>7:30 AM - 3:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>10:00 AM - 8:00 PM</string>
+		<string>8:30 AM - 5:00 PM</string>
+		<string>8:30 AM - 8:00 PM</string>
+		<string>7:30 AM - 1:00 AM</string>
+		<string>7:30 AM - 7:00 PM</string>
+		<string>7:30 AM - 5:00 PM</string>
+		<string>11:00 AM - 8:00 PM</string>
+		<string>8:00 AM - 4:00 PM</string>
+		<string>11:00 AM - 9:00 PM</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>7:30 AM - 11:00 PM</string>
+		<string>7:00 AM - 2:00 PM</string>
+		<string>8:30 AM - 1:30 PM</string>
+		<string>8:15 AM - 1:15 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,11:00 AM - 2:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 10:00 AM,11:00 AM - 3:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,7:30 AM - 9:30 AM,11:00 AM - 2:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:00 AM,2:00 PM - 4:30 PM,7:00 PM - 12:00 AM</string>
+	</array>
+	<key>Saturday Hours</key>
+	<array>
+		<string>Closed</string>
+		<string>9:30 AM - 1:00 AM</string>
+		<string>Closed</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 7:00 PM</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>11:00 AM - 6:00 PM</string>
+		<string>Closed</string>
+		<string>10:00 AM - 6:00 PM</string>
+		<string>9:30 AM - 1:00 AM</string>
+		<string>9:00 AM - 7:00 PM</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>11:00 AM - 9:00 PM</string>
+		<string>Closed</string>
+		<string>9:30 AM - 11:00 PM</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:30 AM,11:30 AM - 3:00 PM,4:30 PM - 7:30 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,N/A,N/A</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:30 AM,11:30 AM - 2:00 PM,4:30 PM - 7:30 PM</string>
+		<string>Afternoons,Evening,EMPTY,2:00 PM - 4:30 PM,7:30 PM - 12:00 AM,EMPTY</string>
+	</array>
+	<key>Sunday Hours</key>
+	<array>
+		<string>Closed</string>
+		<string>9:30 AM - 1:00 AM</string>
+		<string>Closed</string>
+		<string>11:00 AM - 7:00 PM</string>
+		<string>8:00 AM - 7:00 PM</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>11:00 AM - 6:00 PM</string>
+		<string>Closed</string>
+		<string>10:00 AM - 6:00 PM</string>
+		<string>9:30 AM - 1:00 AM</string>
+		<string>9:00 AM - 9:00 PM</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>3:00 PM - 9:00 PM</string>
+		<string>Closed</string>
+		<string>9:30 AM - 11:00 PM</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Closed</string>
+		<string>Breakfast,Lunch,Dinner,9:30 AM - 11:30 AM,11:30 AM - 3:00 PM,4:30 PM - 7:00 PM</string>
+		<string>Breakfast,Lunch,Dinner,N/A,N/A,N/A</string>
+		<string>Breakfast,Lunch,EMPTY,9:30 AM - 11:30 AM,11:30 AM - 2:00 PM,EMPTY</string>
+		<string>Open,EMPTY,EMPTY,2:00 PM - 12:00 AM,EMPTY,EMPTY</string>
+	</array>
+	<key>Faculty</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>For items with faculty ie. no services we display the corresponding faculty otherwise values will be nil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>Arts and Science Undergraduate Society</string>
+		<string>Health</string>
+		<string>Residence</string>
+		<string>Art Museum</string>
+		<string>Museum of Health Care</string>
+		<string>Cafeteria and Residence</string>
+		<string>Faculty of Applied Science and Engineering</string>
+		<string>Department of Biology</string>
+		<string>Health Science</string>
+		<string>Residence</string>
+		<string>Geology</string>
+		<string></string>
+		<string></string>
+		<string>School of Nursing</string>
+		<string>Lecture Hall</string>
+		<string>Department Of Chemistry</string>
+		<string>Residence</string>
+		<string>Campus Bookstore and Engineering Pub</string>
+		<string>Civil Engineering</string>
+		<string>Biochemistry</string>
+		<string>Residence</string>
+		<string></string>
+		<string>Library</string>
+		<string>Faculty of Education</string>
+		<string>Department of Economics</string>
+		<string>Faculty of Applied Science and Engineering</string>
+		<string>Department of Biology</string>
+		<string>Department of Civil Engineering</string>
+		<string>Department of Medicine</string>
+		<string></string>
+		<string>Queen&apos;s School of Buisness</string>
+		<string>Department of Mining and School of Computing</string>
+		<string>Office of the University Registrar</string>
+		<string>Residence</string>
+		<string></string>
+		<string>Residence</string>
+		<string>School of Music</string>
+		<string>Department Of Psychology</string>
+		<string>Department of Mechanical Engineering</string>
+		<string>Cafeteria and Residence</string>
+		<string>Department of Mathematics and Statistics</string>
+		<string></string>
+		<string>Library</string>
+		<string>Faculty of Arts and Sciences</string>
+		<string>Student Health Services</string>
+		<string>Residence</string>
+		<string>Cafeteria and Residence</string>
+		<string>Queen&apos;s School of Rehabilitation Therapy</string>
+		<string></string>
+		<string>Department of Mechanical Engineering</string>
+		<string>Residence</string>
+		<string>Department of Geological Sciences &amp; Engineering</string>
+		<string>Residence</string>
+		<string>Faculty of Engineering and Applied Science</string>
+		<string></string>
+		<string>Department of Art</string>
+		<string></string>
+		<string></string>
+		<string>Faculty of Law</string>
+		<string>Department of Physics</string>
+		<string>Residence</string>
+		<string>Residence</string>
+		<string>Department of Electrical and Computer Engineering</string>
+		<string>Various Humanities Departments</string>
+		<string>Residence</string>
+		<string>Queens Recreation Centre</string>
+	</array>
+	<key>Bio</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>The Arts and Science Undergraduate Society is the student governing body of the Faculty of Arts and Science. The Society was founded in 1891 and is one of the oldest faculty societies in Canada.
+            
+The ASUS mandate is to provide opportunities for students outside of the classroom to enrich their experience at Queen’s University as an Arts and Science undergraduate.
+                
+The ASUS President reports to the Dean of Arts and Science and represents the Faculty on the President’s Caucus, which is comprised of the President of every Faculty Society.</string>
+		<string>Completed in 1957, this neo-Georgian building at the corner of Arch and Deacon Streets was the first building on campus dedicated to the study of the science of physiology and initially was called the Physiology Building.
+                
+A plaque erected inside the entrance recognizes the generous gift from local businessman Harry Abramsky and his wife Ethel who donated the funds for its construction. In 1974, on the recommendation of Principal Ronald Watts, the building was renamed in their honour.
+                
+The Physiology Department has since moved, and the building now houses a variety of health-related academic units. It is designed in the neo-Georgian style and clad in Queenston limestone.
+                
+In 2011, Queen&apos;s School of Medicine incorporated the south exterior wall of Abramsky Hall.</string>
+		<string>Completed in 1952, this building is the second oldest residence on campus. It is located at the corner of University Avenue and Stuart Street.
+            
+Adelaide Hall was made possible by a gift from Adelaide McLaughlin, the wife of R.S. McLaughlin, who was President of General Motors of Canada and a generous benefactor of Queen&apos;s University.
+                
+The building was erected because of the urgent need for a new women&apos;s residence; for thirty years the only residence on campus had been Ban Righ Hall and there were nowhere near enough places for all applicants.
+                
+Adelaide Hall still serves as a women-only residence. It was built to connect with Ban Righ Hall and is faced with Queenston limestone.</string>
+		<string>&quot;The Agnes&quot; is one of Canada&apos;s most respected art museums, with a permanent collection of more than 14,000 pieces.
+                
+The collection ranges from the 14th century to the present, with an emphasis on Canadian art. It includes paintings, sculptures, and graphics by major Canadian artists, European old master paintings – including two works by Rembrandt -, costumes, quilts, silver and other decorative objects, Inuit art, and one of the largest public collections of African art in Canada. Exhibitions from the permanent collection are complemented by travelling exhibitions and a variety of public programs.</string>
+		<string>The Ann Baillie Building, a former nurses&apos; residence, built in 1904 to attract the &quot;right kind of lady to nursing,&quot; has been the home to The Museum of Health Care at Kingston since 1995. The building is a beautiful 1904 Beaux-Arts style limestone structure and National Historic Site commemorating the history of nursing education in Canada.</string>
+		<string>Ban Righ was officially opened in October of 1925 by the Viscountess Byng of Vimy, the wife of the Governor General. Adelaide Hall was added to it in 1951-2 and an expanded dining hall was added in 1967-68. The residence&apos;s dining hall was renovated in 1996 to accommodate growing numbers of students in residences, as well as to modernize food services at the University.
+                
+The term &quot;ban righ&quot; is Gaelic for &quot;wife of the King&quot; - or, in other words, &quot;Queen.&quot; The name was suggested by Professor Macgillivray when the original name chosen by the alumnae, &quot;Banrighinn Hall,&quot; was called into question because of the possibility of it being confused with a Mr. Brannigan, who was the owner of a local theatre.</string>
+		<string>Beamish-Munro Hall, located at the corner of Union Street and Division Street, is named in honour of the families of Robert Beamish (Sci’60) and Donald Munro (Sci’52). It is the home of the Integrated Learning Centre and Faculty of Engineering and Applied Science.
+                
+The building opened in May 2004, and in 2005 it was selected as one of the most environmentally advanced buildings in Canada. This recognition by the Sustainable Buildings &apos;05 Canadian Team was part of the fourth International Green Building Challenge (GBC) 2005.
+                
+Beamish-Munro Hall is a student-oriented building, designed in collaboration with students.</string>
+		<string>Officially opened on November 28, 1997, the BioSciences Complex houses the Department of Biology, PARTEQ, and various other science and technology-oriented departments.
+                
+The complex features a large atrium with student study space and art displays, large lecture halls used by many different departments, and the Queen&apos;s Phytotron, featuring a number of greenhouses.
+                
+The $52 million BioSciences Complex is equipped with some of Canada&apos;s most sophisticated facilities for research in biotechnology and molecular science. Bringing together researchers from many different faculties and departments, the complex facilitates research collaboration and has strengthened the role of Queen&apos;s as a leader in scientific scholarship.</string>
+		<string>Completed in 1979, this nine-story building, located next to Kingston General Hospital, is the main health sciences building at Queen&apos;s. It was made possible by the new provincial funding that became available to Queen&apos;s after it joined forces with local hospitals and agreed to coordinate its activities with them in a cooperative health sciences complex.
+                
+Botterell Hall contains classrooms, labs, the Centre for Neuroscience Studies, and the Bracken Health Sciences Library.
+                
+A large addition to Botterell Hall for heart, stroke, and cancer research was opened in 1992.
+                
+The building is named after Edmund Harry Botterell, a neurosurgeon, Dean of the Faculty of Medicine from 1962 to 1970, and Vice-Principal (Health Sciences) from 1968 to 1971.</string>
+		<string>To honour their many years of service to Queen’s, this residence is named in honour of Drs. Marlene Brant Castellano and Clare Clifton Brant. It opened in 2015.</string>
+		<string>Built in 1931 and substantially enlarged in 1973, Miller Hall is named after Willet Green Miller, a professor of Geology and Petrology at Queen&apos;s and Ontario&apos;s chief Geologist (1902-1925), and is home to the Department of Geological Sciences and Geological Engineering.
+                
+It is located on Union Street opposite the foot of Division Street.
+
+The building, constructed in the Collegiate Gothic style, also contains the Miller Museum of Geology. The Bruce Wing, built in 1973, is attached to the southwest corner of Miller Hall. It is named after Everend Lester Bruce, a Professor of Geology at Queen&apos;s (1914-1949) and head of the department (1944-1949).</string>
+		<string>This Institute was formally established by the Board of Trustees in June 2001. Its goal is to create an environment that represents the full spectrum of cancer research and to provide opportunities for collaborative research and multidisciplinary training.
+                
+The Institute has three divisions: Cancer Biology and Genetics, which includes the Cancer Research Laboratories plus investigators with a primary focus on Cancer Genetics; Cancer Clinical Trials, which includes the NCIC Clinical Trials Group; and Cancer Care and Epidemiology, which includes the Radiation Oncology Research Unit plus investigators with a primary interest in environmental causes of cancer.
+                
+The three divisions are supported by a large number of faculty, graduate and post-doctoral trainees and support staff.</string>
+		<string>Built in 1890, Carruthers Hall is one of the oldest buildings on campus: only Summerhill, Theological Hall, and the Old Medical Building are older.
+                
+It was the first building at Queen&apos;s built for strictly scientific purposes and the money for it was raised as part of the famous Jubilee Campaign, with more than half of it contributed by John Carruthers, a Kingston businessman who helped Principal Grant in his efforts to convince the Board of Trustees to ask the government to establish the School of Mining and Agriculture.
+                
+The building was designed by Professors Nathan Fellowes Dupuis and William Lawton Goodwin after they spent some time visiting American universities for inspiration. Due to budget constraints, when the building opened in 1891 as the new science hall, it wasn&apos;t fully furnished.
+                
+It now holds the CFRC Radio Station, the Gordon Vogt Studio Theatre, and a variety of offices.</string>
+		<string>Completed in 1969, the Cataraqui Building is one of two buildings at Queen&apos;s named after waterways in the Kingston region; the other is the Rideau Building. The St. Lawrence Building, which was torn down to make room for the construction of Chernoff Hall, was also named for a Kingston waterway, and all three of these buildings were constructed at about the same time.
+                
+The Cataraqui Building has been the home of the School of Nursing since 1982.</string>
+		<string>Chernoff Auditorium stands adjacent to Chernoff Hall. It&apos;s a large lecture hall, and seats 250 students.</string>
+		<string>Established through the efforts of the Chernoff family, this $59 million, state of the art facility has been home to the Department of Chemistry since its completion in the Fall of 2002.
+
+Located on Bader Lane across from Victoria Hall (on the site of the former St.Lawrence Building, which was torn down to make room for the new construction), this five-floor structure houses both &quot;wet&quot; sections (laboratory-based) and &quot;dry&quot; sections (administrative-based). Of its more than 14,000 square metres of space, more than 5,000m² is devoted to lab space.</string>
+		<string>Chown Hall, completed in 1960, was the third residence to be built on campus.
+                
+Its completion brought the total available residence places for women up to 435, which, in 1960, was about half the total number of women students at Queen&apos;s. It became a mixed gender environment in 2011.
+                
+Queen&apos;s had some difficulty purchasing the land for Chown Hall due to the reluctance of various parties to sell their land, or at least to sell it at a price which Queen&apos;s considered reasonable.
+                
+The many residences built during this period were part of the vision of Principal Mackintosh, who wanted a special place for Queen&apos;s as close-knit, residential university.
+                
+The building is named after May Chown (BA 1911), treasurer for many years of the Ban Righ Board and daughter of Queen’s long-time treasurer, G.Y. Chown.</string>
+		<string>Built between 1949 and 1951, Clark Hall houses the Campus Bookstore and the Clark Hall Pub, run by engineering students.
+                
+It was constructed on the west side of Campus Road (on a site formerly occupied by the Old Mill, a machine shop for engineering students) with money provided entirely by the engineering students, including a significant donation from the Fifth Field Company, a unit of Queen&apos;s students which served in WWI.
+                
+The building was intended to provide a meeting place for engineering students -and for many years it was home to the Engineering Society before its offices moved into Beamish-Munro Hall - and a permanent home for the bookstore, which was then called the Technical Supplies Store.
+
+Clark Hall has been expanded several times: the first addition was completed in 1958 and the second in 1963.
+                
+Since 1971, Clark Hall has been the home of the pub run by the Engineering Society and attending &quot;Ritual&quot; at Clark Hall Pub - the oldest of the three campus bars - is a tradition remembered fondly by many alumni.
+                
+Clark Hall was named in honour of Arthur Lewis Clark, Dean of Applied Science from 1919 until 1943.</string>
+		<string>The Queen&apos;s University Coastal Engineering Laboratory is an integral part of the Civil Engineering Department&apos;s undergraduate courses, graduate programs, academic research, and commercial model testing. Laboratory facilities for hydraulics and fluid mechanics occupy 600 m2 at the main campus, but this lab provides an additional 1,860 m2 of space. Here coastal engineering problems are studied in three 61 m long and one 30.5 m long wave flumes, a 21m x 21m coastal models basin, an oscillating water tunnel, and closed pipelines.</string>
+		<string>Completed in 1938, the Craine Building adjoins Humphrey Hall on the north side and was the first of many at Queen&apos;s to be constructed with a facing of buff-coloured Queenston limestone instead of the usual grey Kingston limestone.
+                
+It was the only major construction effort undertaken by Queen&apos;s during the Depression and was made possible by a gift from Agnes Douglas Craine, who graduated in 1888 from the Queen&apos;s-affiliated women&apos;s medical college.
+                
+Agnes named the building in honour of her parents, John Joseph and Agnes Muir Craine, and her brother John Craine.
+                
+She endowed the building specifically for teaching and research in biochemistry; it was used for that purpose until the 1970s</string>
+		<string>Completed in 2015, this residence is named for former principal David Chadwick Smith. Smith was a Professor of Economics and as Queen&apos;s 16th Principal from 1984-1994.</string>
+		<string>Originally opened in 1974, the Donald Gordon Conference Centre is a state of the art conference and hospitality facility that is wholly owned and operated by Queen&apos;s University. It is used both by Queen&apos;s groups and others and is the home of the Queen’s Executive Development Centre.</string>
+		<string>This campus landmark is the oldest of Queen&apos;s libraries. The southern half of the building was completed in 1923-4 and is faced with Kingston limestone; the northern part, built in the same neo-gothic style but faced with Queenston limestone, was added in 1966 and features three underground floors.</string>
+		<string>Duncan McArthur Hall is one of the few buildings located on the west campus of Queen&apos;s University. The campus is located about two kilometres west of the main campus and was purchased by Queen&apos;s in 1969. Before Queen&apos;s bought the 61-acre area, it held a farm and a stone quarry, both of which were worked by inmates of the Kingston Penitentiary.
+                
+Duncan McArthur Hall, built between 1969 and 1971 with funding from the Ontario government, is a very large building which houses Queen&apos;s Faculty of Education, made up of administrative offices, classrooms, labs, technical shops, and the large Education Library.</string>
+		<string>Dunning Hall was built in 1960 and is faced with Queenston limestone. It originally housed the departments of Economics, Political Science, Geography, and Sociology, as well as the School of Industrial Relations and the School of Commerce.
+                
+As each of these departments expanded and new buildings were erected, most of these departments moved out and the purpose of Dunning Hall became more specialized.
+                
+It housed Queen&apos;s School of Business for many years, but on the completion of Goodes Hall in the fall of 2002, it became the home of the Department of Economics.</string>
+		<string>Completed in 1966 and located on Division Street, Dupuis Hall is named after Nathan Fellowes Dupuis, an influential professor of mathematics at Queen&apos;s in the late 19th and early 20th centuries, and a founder of the Faculty of Engineering and Applied Science.
+                
+The concrete of the exterior is broken up by small sections of decorative limestone facing in an attempt to appease the more traditionally-minded people on campus who objected to a building being erected at Queen&apos;s without the usual limestone.</string>
+		<string>Built between 1963 and 1966, Earl Hall opened as the home of the Department of Biology.
+                
+Earl Hall is located on Barrie Street between Union and Arch streets, south of St James Anglican Church, and is now part of the BioSciences Complex. It is encased in Queenston limestone, which can still be seen as part of the east wall of the Biosciences atrium.</string>
+		<string>Completed in 1958, this building has long been the home of the Department of Civil Engineering and of the Queen’s Observatory, which is located on the roof.
+                
+It is named after Douglas Stewart Ellis (1885-1955), a Queen&apos;s graduate who taught Civil Engineering between 1910 and 1955 and was Dean of Applied Science from 1943 to 1955.
+                
+Ellis Hall was constructed to help alleviate the extreme pressure on the Faculty of Engineering which was the result of a huge increase in the demand for scientific courses at Queen&apos;s after the war.
+                
+            </string>
+		<string>Built in 1959, Etherington Hall houses the Departments of Medicine, Ophthalmology, Obstetrics and Gynaecology, and the Medical Art and Photography Service.
+                
+It is named after Frederick Etherington, a former Dean of Medicine and the husband of Agnes Etherington, who bequeathed the Agnes Etherington Art Centre building, their family home, to Queen&apos;s.</string>
+		<string>Opened in September 2006, the GIDRU wing houses the Gastrointestinal Diseases Research Unit (GIDRU), a unique collaborative research unit concerned with diseases of the gastrointestinal tract. Built with support from the Canadian Foundation for Innovation, Queen&apos;s, and the Kingston Hospitals, this two-floor building connects to the Empire Wing (opened 1914) of the Kingston General Hospital and houses researchers from many Queen&apos;s departments. The building includes 10000 sq. ft of state-of-the-art laboratory and office space, and incorporates the latest sustainable design and energy efficient features. It is joined to what was once Canada&apos;s first parliament building. During construction, a time capsule containing a 1911 Annual Report, fundraising program and copies of the Daily British Whig and the Daily Standard were discovered within the cornerstone of the hospital&apos;s Empire wing.</string>
+		<string>Home to the Queen&apos;s School of Business, Goodes Hall opened in 2002 and was established through fundraising and the Ontario Superbuild program. The facility is named after Mary and Cedric Goodes, parents of benefactor Melvin Goodes (Com &apos;57).
+                
+At a cost of over $25 million to build, Goodes Hall occupies the renovated and expanded former Victoria School, preserving the building&apos;s heritage while equipping the school with state of the art information technology systems and video conferencing, greatly enlarged lecture halls, a sophisticated architectural design, and increased resources. It also brings all of the School&apos;s faculty, staff, and students under one roof for the first time.</string>
+		<string>Goodwin Hall was completed in 1972 as a new home for the Department of Mining Engineering (see The Robert M. Buchan Department of Mining).
+                
+It is named after William Lawton Goodwin, the first director of the School of Mining and Agriculture (the modern day Faculty of Engineering and Applied Science).
+                
+In 1989, Goodwin Hall was linked with the newly constructed Walter Light Hall in a multi-million dollar technology centre to make room for the pressing space needs of the Department of Electrical and Computer Engineering, which had long outgrown its old home in Fleming Hall.
+                
+Goodwin Hall also houses the School of Computing.</string>
+		<string>Reopened in 2006, Gordon Hall is now home to the Office of the University Registrar, Career Services, the School of Graduate Studies, and the Office of the Associate Vice-Principal and Dean of Student Affairs.</string>
+		<string>This undergraduate residence, located on Collingwood Street, was built in 1964. It is clad in Queenston limestone and is one of four residence buildings surrounding Leonard Field. The others are Leonard Hall, McNeill House, and Morris Hall.</string>
+		<string>With its tall limestone clock-tower, this assembly and concert hall, completed in 1905, is Queen&apos;s best-known landmark. Fittingly, it is named after Queen&apos;s most important principal, George Monro Grant, a national figure in his own right who gave Queen&apos;s, for the first time, a national mission and profile.
+                
+The hall seats 900 people and is used for public lectures and meetings, concerts, convocation ceremonies, dances, and exams.</string>
+		<string>Built in 1969, Harkness International Hall is a residence building for upper-year Canadian and international students. It is located on Earl Street, near the intersection with Alfred Street.
+                
+Harkness Hall was originally intended to house men only, but it became co-ed in 1987. It has room for about 100 students.
+                
+It is named in honour of R.D. Harkness, a chair of Queen&apos;s Board of Trustees in the 1960s.</string>
+		<string>Completed in 1973 (and said to resemble a grand piano from the air), the building houses classrooms, teaching and practice studios, rehearsal halls, staff offices, electronic and computer music studios, an electronic piano laboratory, and a lounge area.</string>
+		<string>Completed in 1969, this hall houses the main part of Queen&apos;s Department of Psychology. The rest of the department is located in the attached Craine Building.</string>
+		<string>When Jackson Hall was first completed in 1907, it was the University&apos;s gymnasium. It was not named Jackson Hall until the 1970s and until then was known only by functional names, which changed over time. The building was radically expanded and renovated with the addition of an extra floor in 1959 and now houses part of the Department of Mechanical Engineering </string>
+		<string>Built in 1974, Jean Royce Hall is a collection of student residence buildings on west campus, many of which are interconnected. It is named after Jean Royce, Queen&apos;s Registrar for 35 years (1933-1969).</string>
+		<string>Completed in 1969, Jeffery Hall is named after Ralph L. Jeffery, Head of Mathematics and Chair of Graduate Studies from 1943 to 1960.
+                
+            </string>
+		<string>Located at the northeast corner of University Avenue and Union Street, the John Deutsch University Centre (JDUC) is used by students, staff, faculty, and alumni for a variety of purposes. It houses the Alma Mater Society (AMS) offices, the Queen&apos;s Pub, Alfie&apos;s, the Memorial Room, and was the original home of the Common Ground before it moved to the Queen&apos;s Centre.</string>
+		<string>Opened in the fall of 1994, the five-storey Joseph S. Stauffer Library is the largest library on campus, with room for approximately 1.5 million volumes, six kilometres of bookstacks, and study and research space for more than 1,200 students.</string>
+		<string>Completed in 1903, the funding for this hall was donated to Queen&apos;s by the City of Kingston to provide much-needed classroom and library space for the Faculty of Arts and Science. Officially named for the city, it was long known instead as the New Arts Building to distinguish it from the Old Arts Building next door, now known as Theological Hall.</string>
+		<string>The LaSalle Building was completed in 1969 and is home to the International Centre for the Advancement of Community-Based Rehabilitation, as well as Student Health Services.
+                
+It is named after Rene-Robert Cavalier, Sieur de LaSalle, the French explorer who governed the first European settlement in the Kingston area in the 1670s.</string>
+		<string>Leggett Hall and Watts Hall, which were constructed at the same time, were the first major residence construction projects at Queen&apos;s in more than 25 years.</string>
+		<string>Built in 1959, this is one of four student residence buildings surrounding Leonard Field. The others are Gordon-Brockington House, McNeill House, and Morris Hall.
+                
+The building is a mixed-gender and all-male environment and houses Leonard Dining Hall, one of the three dining halls on campus that serve students in residence.</string>
+		<string>Constructed in 1963 and located on George Street, this building houses Queen&apos;s School of Rehabilitation Therapy and the Glaxo-Wellcome Clinical Education Centre.</string>
+		<string>Completed in 1973, Mackintosh-Corry Hall, or as it is more commonly known, &quot;Mac-Corry,&quot; was completed in 1973 as a new Arts and Social Science complex. It sits on the former site of George Richardson Memorial Stadium.
+                
+Mac-Corry Hall is home to several departments and institutes, as well as a cafeteria, study and seminar rooms.</string>
+		<string>McLaughlin Hall was completed in 1948 as a home for the Department of Mechanical Engineering (see Materials and Metallurgical Engineering, Department of) and was built on the old site of the Observatory. There is a story that Chancellor Dunning procured the funds for the building merely by passing a note down the table at a board meeting of the CPR to his friend Col. R.S. McLaughlin, which said: &quot;Queen&apos;s needs a new mechanical engineering building.&quot;</string>
+		<string>Completed in 1955, this undergraduate residence is one of four residence buildings surrounding Leonard Field. The others are Morris Hall, Leonard Hall, and Gordon-Brockington House.</string>
+		<string>Built in 1931 and substantially enlarged in 1973, Miller Hall is named after Willet Green Miller, a professor of Geology and Petrology at Queen&apos;s and Ontario&apos;s chief Geologist (1902-1925), and is home to the Department of Geological Sciences and Geological Engineering.</string>
+		<string>Completed in 1958, this undergraduate residence is one of four residence buildings surrounding Leonard Field. The others are McNeill House, Gordon-Brockington House, and Leonard Hall.
+                
+            </string>
+		<string>Completed in 1912, Nicol Hall houses various Faculty of Engineering and Applied Science departments.
+                
+During the First World War, the attic of Nicol Hall was used as an army barracks</string>
+		<string>Completed in 1858, the Old Medical Building was the first permanent building on campus or elsewhere that was constructed by Queen&apos;s (Summerhill, the oldest building on campus, was originally a private home). Today, the old spacious lecture rooms have been transformed into administrative offices.
+                
+            </string>
+		<string>Completed in 1903, this Victorian Romanesque building houses the Department of Art. Like nearby Kingston Hall, it was named for the level of government that funded it: it was built by the provincial government to house the Ontario School of Mining and Agriculture, which later became Queen&apos;s Faculty of Engineering and Applied Science. Today the building features several art studios, display rooms, the Art Library, and several small lecture halls.
+                
+            </string>
+		<string>This building was constructed in 1971 as temporary office space, but has remained in use for far longer than intended. It is the home of various administrative departments and is named after the Rideau Canal.</string>
+		<string>Robert Sutherland Hall was constructed in 1989 in order to house the growing number of departments and institutes at Queen&apos;s concerned with the study of politics and governmental issues under one roof.
+                
+            </string>
+		<string>Completed in 1960, this building houses Queen&apos;s Faculty of Law and is named after Sir John A. Macdonald, who grew up and practised law in Kingston and helped to found Queen&apos;s before embarking on the political career that made him Canada&apos;s first Prime Minister.</string>
+		<string>A notable feature of the building is a Foucault Pendulum, which hangs in the centre of the second floor. The pendulum swings in a pattern and at a speed determined by the rotation of the earth and the latitude of Kingston.
+                
+The building is named after John Bertram Stirling, a Queen&apos;s graduate, an engineer, and businessman of international repute, and eighth Chancellor of Queen&apos;s (1960-1974).</string>
+		<string>This huge hall, opened in two stages in 1965 and 1968, is the largest student residence at Queen&apos;s, with beds for more than 750 students. It was originally a women&apos;s residence but was transformed into a co-educational building in 1988</string>
+		<string>Built in 1968, this residence building at the corner of King and George streets has beds for about 225 students.</string>
+		<string>Walter Light Hall was built because of a 1983 study conducted on the campus, which attempted to discover the most urgent space requirements of the University. The study concluded that the Department of Electrical and Computer Engineering, which was at the time located in Fleming Hall, was by far the most over-crowded and was in desperate need of new facilities.</string>
+		<string>Watson Hall houses various Humanities departments, including Classics, History, English, and Philosophy.</string>
+		<string>Watts Hall, located on lower Albert Street, was named in honour of former Principal Ronald Watts, the University&apos;s 15th Principal from 1974 to 1984. Along with Leggett Hall, this residence opened in September 2003 and was the first major residence construction project at Queen&apos;s in more than 25 years</string>
+		<string>The ARC, which opened in December 2009, is a state of the art fitness facility within the Queen’s Centre with a wide variety of programs and activities for the campus and Kingston community.
+
+The ARC features a 38m x 25m pool, gymnasiums, basketball and volleyball courts, squash/racquetball courts, dance studios, and extensive cardio and weight facilities.</string>
+	</array>
+</dict>
+</plist>
