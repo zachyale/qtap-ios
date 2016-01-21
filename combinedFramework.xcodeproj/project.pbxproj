@@ -18,10 +18,7 @@
 		07A40D531B45EAE000D4F92A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07A40D501B45E7ED00D4F92A /* Foundation.framework */; };
 		07A40D551B45EAF100D4F92A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07A40D541B45EAF100D4F92A /* UIKit.framework */; };
 		07A40D571B45EAFE00D4F92A /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07A40D561B45EAFE00D4F92A /* MapKit.framework */; };
-		07ABCEB81ABCD0F600C3ACCE /* drivingmap.html in Resources */ = {isa = PBXBuildFile; fileRef = 07ABCEB41ABCD0F500C3ACCE /* drivingmap.html */; };
 		07ABCEB91ABCD0F700C3ACCE /* paper.gif in Resources */ = {isa = PBXBuildFile; fileRef = 07ABCEB51ABCD0F600C3ACCE /* paper.gif */; };
-		07ABCEBA1ABCD0F700C3ACCE /* transitmap.html in Resources */ = {isa = PBXBuildFile; fileRef = 07ABCEB61ABCD0F600C3ACCE /* transitmap.html */; };
-		07ABCEBB1ABCD0F700C3ACCE /* walkingmap.html in Resources */ = {isa = PBXBuildFile; fileRef = 07ABCEB71ABCD0F600C3ACCE /* walkingmap.html */; };
 		07B6719C1ABA852600A3E13C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B6719B1ABA852600A3E13C /* main.m */; };
 		07B6719F1ABA852600A3E13C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B6719E1ABA852600A3E13C /* AppDelegate.m */; };
 		07B671A21ABA852600A3E13C /* DashNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B671A11ABA852600A3E13C /* DashNavigationController.m */; };
@@ -148,10 +145,7 @@
 		07A40D501B45E7ED00D4F92A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		07A40D541B45EAF100D4F92A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		07A40D561B45EAFE00D4F92A /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
-		07ABCEB41ABCD0F500C3ACCE /* drivingmap.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = drivingmap.html; sourceTree = "<group>"; };
 		07ABCEB51ABCD0F600C3ACCE /* paper.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = paper.gif; sourceTree = "<group>"; };
-		07ABCEB61ABCD0F600C3ACCE /* transitmap.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = transitmap.html; sourceTree = "<group>"; };
-		07ABCEB71ABCD0F600C3ACCE /* walkingmap.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = walkingmap.html; sourceTree = "<group>"; };
 		07B671961ABA852600A3E13C /* combinedFramework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = combinedFramework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07B6719A1ABA852600A3E13C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07B6719B1ABA852600A3E13C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -345,9 +339,7 @@
 				ABF31A6E1B8809E2009B592D /* GoNonEngPageViewController.m */,
 				AB002B391B82339E00647B7D /* ViewController.h */,
 				AB002B3A1B82339E00647B7D /* ViewController.m */,
-				075CA9951B95EC760043996B /* BuildingTutorialFinal.png */,
-				075CA99B1B95EC8B0043996B /* ResourcesTutorialFinal.png */,
-				075CA9971B95EC760043996B /* DashboardTutorialFinal.png */,
+				07F9A80D1C505FF500F9AC06 /* Tutorial Images */,
 				07B671A61ABA852600A3E13C /* Main.storyboard */,
 				07B671D71ABA8D4500A3E13C /* Dashboard (T1) */,
 				07B671D61ABA8D3900A3E13C /* Homework (T2) */,
@@ -355,7 +347,6 @@
 				07B671DE1ABA8F4700A3E13C /* Resources (T4) */,
 				AB33EA1C1ABF97CA0020109F /* TabBarControllerDelegate.h */,
 				AB33EA1D1ABF97CA0020109F /* TabBarControllerDelegate.m */,
-				075CA9931B95DD9B0043996B /* original_BG.png */,
 				07B671A91ABA852600A3E13C /* Images.xcassets */,
 				07B671AB1ABA852600A3E13C /* LaunchScreen.xib */,
 				07B671991ABA852600A3E13C /* Supporting Files */,
@@ -368,9 +359,6 @@
 			children = (
 				07FB7FA11AC5F6C5003B741C /* QueensLogo_colour.png */,
 				07ABCEB51ABCD0F600C3ACCE /* paper.gif */,
-				07ABCEB41ABCD0F500C3ACCE /* drivingmap.html */,
-				07ABCEB61ABCD0F600C3ACCE /* transitmap.html */,
-				07ABCEB71ABCD0F600C3ACCE /* walkingmap.html */,
 				07B6719A1ABA852600A3E13C /* Info.plist */,
 				07B6719B1ABA852600A3E13C /* main.m */,
 			);
@@ -424,6 +412,7 @@
 		07B671DC1ABA8F1A00A3E13C /* Buildings (T3) */ = {
 			isa = PBXGroup;
 			children = (
+				07F9A80C1C505FB400F9AC06 /* Building Images */,
 				ABF31A601B851F83009B592D /* NewDetailViewController.h */,
 				ABF31A611B851F83009B592D /* NewDetailViewController.m */,
 				ABF31A631B8521A7009B592D /* detailViewCells.h */,
@@ -445,6 +434,24 @@
 				AB9E13F91ABBAC060064A08A /* FoodClass.m */,
 				AB9E13FB1ABBAC310064A08A /* cellClass.h */,
 				AB9E13FC1ABBAC310064A08A /* cellClass.m */,
+			);
+			name = "Buildings (T3)";
+			sourceTree = "<group>";
+		};
+		07B671DE1ABA8F4700A3E13C /* Resources (T4) */ = {
+			isa = PBXGroup;
+			children = (
+				AB6EA8CA1ABE06D300DBB690 /* ResourcesViewController.h */,
+				AB6EA8CB1ABE06D300DBB690 /* ResourcesViewController.m */,
+				07BD6F7E1B61A5940093F895 /* settingsViewControllerPrime.h */,
+				07BD6F7F1B61A5940093F895 /* settingsViewControllerPrime.m */,
+			);
+			name = "Resources (T4)";
+			sourceTree = "<group>";
+		};
+		07F9A80C1C505FB400F9AC06 /* Building Images */ = {
+			isa = PBXGroup;
+			children = (
 				AB6981191B90C12F00B4ABCD /* AB_CraineBuilding.jpg */,
 				AB69811A1B90C12F00B4ABCD /* abramskyhall.jpg */,
 				AB69811B1B90C12F00B4ABCD /* adelaide-hall1.jpg */,
@@ -517,18 +524,18 @@
 				AB6981811B90DAD300B4ABCD /* McNeillHouse.jpg */,
 				AB5B08FF1BA8458000589B5F /* Tea Room.jpeg */,
 			);
-			name = "Buildings (T3)";
+			name = "Building Images";
 			sourceTree = "<group>";
 		};
-		07B671DE1ABA8F4700A3E13C /* Resources (T4) */ = {
+		07F9A80D1C505FF500F9AC06 /* Tutorial Images */ = {
 			isa = PBXGroup;
 			children = (
-				AB6EA8CA1ABE06D300DBB690 /* ResourcesViewController.h */,
-				AB6EA8CB1ABE06D300DBB690 /* ResourcesViewController.m */,
-				07BD6F7E1B61A5940093F895 /* settingsViewControllerPrime.h */,
-				07BD6F7F1B61A5940093F895 /* settingsViewControllerPrime.m */,
+				075CA9931B95DD9B0043996B /* original_BG.png */,
+				075CA9951B95EC760043996B /* BuildingTutorialFinal.png */,
+				075CA99B1B95EC8B0043996B /* ResourcesTutorialFinal.png */,
+				075CA9971B95EC760043996B /* DashboardTutorialFinal.png */,
 			);
-			name = "Resources (T4)";
+			name = "Tutorial Images";
 			sourceTree = "<group>";
 		};
 		7E3F89AF124B29525F69C6DF /* Pods */ = {
@@ -661,7 +668,6 @@
 				AB6981701B90C12F00B4ABCD /* RobertSutherlandHall.jpg in Resources */,
 				ABF31A671B863334009B592D /* vic-hall.jpg in Resources */,
 				AB6981581B90C12F00B4ABCD /* DunningHall.jpg in Resources */,
-				07ABCEBA1ABCD0F700C3ACCE /* transitmap.html in Resources */,
 				AB6981541B90C12F00B4ABCD /* chown.jpg in Resources */,
 				AB6981761B90C12F00B4ABCD /* WattsRes.jpg in Resources */,
 				AB6981801B90DAA400B4ABCD /* MclaughinHall.jpg in Resources */,
@@ -692,7 +698,6 @@
 				AB69814E1B90C12F00B4ABCD /* botterell.jpg in Resources */,
 				AB439E881AC210B800977F57 /* Jean.jpg in Resources */,
 				AB69816D1B90C12F00B4ABCD /* ontariohall.jpg in Resources */,
-				07ABCEBB1ABCD0F700C3ACCE /* walkingmap.html in Resources */,
 				AB6981511B90C12F00B4ABCD /* carruthers.jpg in Resources */,
 				AB6981611B90C12F00B4ABCD /* harkness.jpg in Resources */,
 				AB69817C1B90DA2800B4ABCD /* Smith-House-Exterior.jpg in Resources */,
@@ -710,7 +715,6 @@
 				ABC680AD1B74193800520B92 /* buildings.plist in Resources */,
 				AB69815A1B90C12F00B4ABCD /* EllisHall.jpg in Resources */,
 				AB6981501B90C12F00B4ABCD /* BruceMiller.jpg in Resources */,
-				07ABCEB81ABCD0F600C3ACCE /* drivingmap.html in Resources */,
 				AB6981731B90C12F00B4ABCD /* Waldron.jpg in Resources */,
 				AB6981621B90C12F00B4ABCD /* HumphreyHall.jpg in Resources */,
 				07ABCEB91ABCD0F700C3ACCE /* paper.gif in Resources */,
