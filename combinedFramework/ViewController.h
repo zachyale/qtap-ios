@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  webViewTest
+//  
 //
-//  Created by Rony Besprozvanny on 2015-08-10.
-//  Copyright (c) 2015 Rony. All rights reserved.
+//  Created by Zachary Yale and Rony Besprozvanny on 2015-08-10.
+//  Copyright (c) 2016 QTap Project. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

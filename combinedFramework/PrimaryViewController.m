@@ -2,8 +2,8 @@
 //  PrimaryViewController.m
 //  webViewTest
 //
-//  Created by Rony Besprozvanny on 2015-08-14.
-//  Copyright (c) 2015 Rony. All rights reserved.
+//  Created by Rony Besprozvanny and Zachary Yale on 2015-08-14.
+//  Copyright (c) 2015 QTap Project. All rights reserved.
 //
 
 #import "PrimaryViewController.h"

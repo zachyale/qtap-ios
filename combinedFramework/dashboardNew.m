@@ -2,8 +2,8 @@
 //  dashboardNew.m
 //  webViewTest
 //
-//  Created by Rony Besprozvanny on 2015-08-14.
-//  Copyright (c) 2015 Rony. All rights reserved.
+//  Created by Zachary Yale and Rony Besprozvanny on 2015-08-14.
+//  Copyright (c) 2016 QTap Project. All rights reserved.
 //
 
 #define IS_IPHONE_LEGACY ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.width - ( double )320 ) < DBL_EPSILON )

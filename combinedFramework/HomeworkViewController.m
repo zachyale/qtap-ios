@@ -2,8 +2,8 @@
 //  ViewController.m
 //  homeworkView
 //
-//  Created by Zachary Yale on 2015-03-18.
-//  Copyright (c) 2015 ENGSOC Group 377A. All rights reserved.
+//  Created by Zachary Yale and Rony Besprozvanny on 2015-03-18.
+//  Copyright (c) 2016 QTap Project. All rights reserved.
 //
 
 #import "HomeworkViewController.h"
@@ -284,7 +284,7 @@
     {
         //Do not go to next
         self.forward.enabled = NO;
-        UIAlertView *homeworkAlert = [[UIAlertView alloc] initWithTitle:@"Note" message:@"Next weeks homework is not up yet. Please check back on Saturday." delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil];
+        UIAlertView *homeworkAlert = [[UIAlertView alloc] initWithTitle:@"Note" message:@"Next week's homework is not up yet. Please check back on Saturday." delegate:self cancelButtonTitle:@"Ok" otherButtonTitles:nil];
         [homeworkAlert show];
     }
 }
